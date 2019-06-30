@@ -820,11 +820,11 @@ constexpr int FIELD_N   = FIELD_HEI * FIELD_WID;
 constexpr int WIN_WID = 640;
 constexpr int WIN_HEI = 480;
 
-constexpr int ORIGIN_X = 32;
-constexpr int ORIGIN_Y = 32;
+constexpr int ORIGIN_X = 6;
+constexpr int ORIGIN_Y = 48;
 
-constexpr int SPRITE_WID = 33;
-constexpr int SPRITE_HEI = 46;
+constexpr int SPRITE_WID = 36;
+constexpr int SPRITE_HEI = 48;
 constexpr int SPRITE_MARGIN = 1;
 
 enum class Path {
